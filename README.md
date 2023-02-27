@@ -28,7 +28,7 @@ I am a Data-Science Professional with statistical and analytical skills well ver
 
 - :zap: In my free time, I solve problems on leetcode and other websites and read tech articles,researchpaper on ML algorithms and latest industry tools.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-patil-a2941959/,deveshpatil619@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/devesh-patil-a2941959/)(deveshpatil619@gmail.com)
 
 ---
 
