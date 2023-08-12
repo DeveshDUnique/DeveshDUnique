@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data-Science Professional with statistical and analytical skills well versed with the CI/CD architectures to provide data-drivenrecommendations and an proactive problem solving skills. Possess Hands-on experience in executing the projects and validating the techniquesfor ensuring business growth and development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Java Full Stack Developer with statistical and analytical skills well versed with the CI/CD architectures to provide data-drive nrecommendations and an proactive problem solving skills. Possess Hands-on experience in executing the projects and validating the techniques for ensuring business growth and development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m working on various ML,DL and NLP end-to-end projects and contributing to community via github.
 
