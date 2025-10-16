@@ -23,7 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Java Full Stack Developer with statistical and analytical skills well versed with the CI/CD architectures to provide data-drive nrecommendations and an proactive problem solving skills. Possess Hands-on experience in executing the projects and validating the techniques for ensuring business growth and development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Java Full Stack Developer with statistical and analytical skills well versed with the CI/CD architectures to provide data-drive recommendations and an proactive problem solving skills. Possess Hands-on experience in executing the projects and validating the techniques for ensuring business growth and development.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -58,6 +58,7 @@ I am a Java Full Stack Developer with statistical and analytical skills well ver
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" **alt="anaconda" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" **alt="fastapi" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite" **alt="sqlite" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="kafka" **alt="sqlite" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/#" title="seaborn" **alt="seaborn" width="40" height="40"/>
 </div>
 ---
